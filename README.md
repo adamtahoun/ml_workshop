@@ -31,8 +31,8 @@ pip install jupyter
 
 Once successfully installed you can run the notebook with:
 
-'''
+```
 jupyter notebook
-'''
+```
 
 
